@@ -1,0 +1,258 @@
+{
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
+      "path": "default.custom.yaml",
+      "sha256": "b03492cf09000a4556821d807765b3d5c86b43c77660921f61b6dea7e48720d5",
+      "size": 311
+    },
+    {
+      "path": "gannyu_fungcen.dict.yaml",
+      "sha256": "69b4c9a0c0848d8fe4c830c06c9ff5a2b5db062910a004cc92ff2be2ef0fdb48",
+      "size": 204657
+    },
+    {
+      "path": "gannyu_fungcen_new_rel.dict.yaml",
+      "sha256": "3775c911bb0ccf9619d72c564a60ae6b4c9e6acb2234a7ace383698d7dcf8dae",
+      "size": 204650
+    },
+    {
+      "path": "gannyu_fungcen_old_rel.dict.yaml",
+      "sha256": "6ad10906ed370560a50eeb6a90a4f59443fe31f0d68a2df162332bce667002f4",
+      "size": 204650
+    },
+    {
+      "path": "konny_fungcen_II.schema.yaml",
+      "sha256": "d3f56c834cd61ef8d4d45f65d038a2805ccb78e0433b3c325aee5c3b17bb361b",
+      "size": 21849
+    },
+    {
+      "path": "konny_fungcen_II_both_norel.schema.yaml",
+      "sha256": "66e7a066612e1c13d839e4faef92a850b1b54e5de9207997aaf304cbb9f544d7",
+      "size": 23522
+    },
+    {
+      "path": "konny_fungcen_II_both_norel_gan.schema.yaml",
+      "sha256": "4a8a1a5ec3569bb15126ed9f95fcb24b8e683cb321b9aeef586a56727c39216c",
+      "size": 23552
+    },
+    {
+      "path": "konny_fungcen_II_both_norel_gan_nowenbai.schema.yaml",
+      "sha256": "e078e3d9d92b15f1e888179a869d4c338e4d1a58c5e6175e9847804060d22594",
+      "size": 23571
+    },
+    {
+      "path": "konny_fungcen_II_both_norel_nowenbai.schema.yaml",
+      "sha256": "9be3800c896ce7769281f507953b7cf52bfba3680907980aa85c6018b63e6631",
+      "size": 23541
+    },
+    {
+      "path": "konny_fungcen_II_gan.schema.yaml",
+      "sha256": "cface2a5bbeb3eb54ea60597b5966c4b494a0131b11bcdb3485e9d66082e7e92",
+      "size": 19479
+    },
+    {
+      "path": "konny_fungcen_II_gan_nowenbai.schema.yaml",
+      "sha256": "8e9bbd04215a49dad6b46fccb49af6c275ac27e9a48cac9f79105215900e5ea1",
+      "size": 19498
+    },
+    {
+      "path": "konny_fungcen_II_new_norel.schema.yaml",
+      "sha256": "85627f54202b4040df3412d968d2e40a3d13e8a348cde1e44dff7472043e18c9",
+      "size": 23536
+    },
+    {
+      "path": "konny_fungcen_II_new_norel_gan.schema.yaml",
+      "sha256": "b9c6bb775280042a4a86403a68b6f0de3d500fbd6ef98c913ba0ed768beb9aaa",
+      "size": 23566
+    },
+    {
+      "path": "konny_fungcen_II_new_norel_gan_nowenbai.schema.yaml",
+      "sha256": "0d06a43f68f8d3ed4d5b3684bd0961efe2677633c29a3ecd8c21260df0d27fb2",
+      "size": 23585
+    },
+    {
+      "path": "konny_fungcen_II_new_norel_nowenbai.schema.yaml",
+      "sha256": "c13135ca136f639d424486364225d7701fc396c73072d2f1522add454fa6a75b",
+      "size": 23555
+    },
+    {
+      "path": "konny_fungcen_II_new_rel.schema.yaml",
+      "sha256": "fcc59e3702acc45ab711680ba2ceff4101b56e28dda6895e0e050f9535cfa1ad",
+      "size": 19481
+    },
+    {
+      "path": "konny_fungcen_II_new_rel_gan.schema.yaml",
+      "sha256": "9fcd764496eb7737844daefb27c7fa5868b1189a5fc76dc31ba61e75f48ee7db",
+      "size": 19511
+    },
+    {
+      "path": "konny_fungcen_II_new_rel_gan_nowenbai.schema.yaml",
+      "sha256": "ca0ee1e5685a1ddb23e0bbb7673a42b3d9120964963398468d486d8e14d7c35b",
+      "size": 19530
+    },
+    {
+      "path": "konny_fungcen_II_new_rel_nowenbai.schema.yaml",
+      "sha256": "e5f68b124af3e0b9cb8fe6a468e18ea3228b0d813b0a59e9337a9a6820c06396",
+      "size": 19500
+    },
+    {
+      "path": "konny_fungcen_II_nowenbai.schema.yaml",
+      "sha256": "014a32f6ded94b5e894571251c71b11da81381c296e3965c004969e2556debbc",
+      "size": 19468
+    },
+    {
+      "path": "konny_fungcen_II_old_norel.schema.yaml",
+      "sha256": "899f392e2f16b38b70a166ca0a3d84f238413ae343d860f792d256655717f5fc",
+      "size": 23536
+    },
+    {
+      "path": "konny_fungcen_II_old_norel_gan.schema.yaml",
+      "sha256": "9d6eb8466cf6a20b368694634e9209da18dd5bd45e17fb0d7cc4f02b4ddb4dca",
+      "size": 23566
+    },
+    {
+      "path": "konny_fungcen_II_old_norel_gan_nowenbai.schema.yaml",
+      "sha256": "c416f59144e6e34257a5b909efbae930b96227b79a4baccd6e0f635756ac4593",
+      "size": 23585
+    },
+    {
+      "path": "konny_fungcen_II_old_norel_nowenbai.schema.yaml",
+      "sha256": "0ebee5a9605612b73499e0535bacfa1d0cd3830539514d291c0bfee8d165fe4a",
+      "size": 23555
+    },
+    {
+      "path": "konny_fungcen_II_old_rel.schema.yaml",
+      "sha256": "d69f3570b30ca30c35dbfcdb6e14c6efdd714bec196dac1a69752b3e36ef69ce",
+      "size": 19481
+    },
+    {
+      "path": "konny_fungcen_II_old_rel_gan.schema.yaml",
+      "sha256": "26700eb8c6ddc40df5cd45216fd4c15d94983d3f2a7b26cdba61e13dbcb6def8",
+      "size": 19511
+    },
+    {
+      "path": "konny_fungcen_II_old_rel_gan_nowenbai.schema.yaml",
+      "sha256": "2e05d1c9245ace49a99da5436d6926f8481731140aa7e9dea43acd328377b2fd",
+      "size": 19530
+    },
+    {
+      "path": "konny_fungcen_II_old_rel_nowenbai.schema.yaml",
+      "sha256": "3f4e56fc403a04a78d901550814dc7ccdfd28d34ee812fddbf78c6692153c247",
+      "size": 19500
+    },
+    {
+      "path": "lua/gannyu_annotation_filter.lua",
+      "sha256": "7ba31dc81afd555178813466c3623d5cd9c524023c8caeb6a23c6b53c311955d",
+      "size": 3840
+    },
+    {
+      "path": "lua/gannyu_annotation_store.lua",
+      "sha256": "f0396605b71b38d2d3fc61855c5343914535e7e7e0e741ab8b56e43737fd3bc3",
+      "size": 4361
+    },
+    {
+      "path": "lua/gannyu_data_lifecycle.lua",
+      "sha256": "931aa3acddb26ea289ab72d20c36b45d75169c593c31e898c9e35d4c09d7501b",
+      "size": 1109
+    },
+    {
+      "path": "lua/gannyu_fungcen_annotations.bin",
+      "sha256": "79c099966967f157ae36b7dea192502865ffb936fb9faeebed858f0930d65733",
+      "size": 131116
+    },
+    {
+      "path": "lua/gannyu_fungcen_both_norel_annotations.bin",
+      "sha256": "991df47e963d1e941875c3b4ef99e6c29ddd46631cc688270d32c52149bb87b9",
+      "size": 103574
+    },
+    {
+      "path": "lua/gannyu_fungcen_both_norel_data.lua",
+      "sha256": "7ee3da381d1a79c9313e3cbe9bb47769e16ba4b69223b6c78c515badcf8029ef",
+      "size": 148371
+    },
+    {
+      "path": "lua/gannyu_fungcen_data.lua",
+      "sha256": "45d50478f4928c2e6fbfcab0a7f0aa2011ca4f9716afd7f1c3212b88ad29152c",
+      "size": 158959
+    },
+    {
+      "path": "lua/gannyu_fungcen_new_norel_annotations.bin",
+      "sha256": "533262a70c49b19774d576e49e3c876a707819f2217acb0d9a38e9ae14441098",
+      "size": 103564
+    },
+    {
+      "path": "lua/gannyu_fungcen_new_norel_data.lua",
+      "sha256": "b4824a6c905aac15bceffe48f1b913de4170a5651356a9a9ee4c5f4a297f352e",
+      "size": 148370
+    },
+    {
+      "path": "lua/gannyu_fungcen_new_rel_annotations.bin",
+      "sha256": "ee77f29554f93965efbd8162e567024e6a08d5918f820bb9c1bf139883e5457a",
+      "size": 131115
+    },
+    {
+      "path": "lua/gannyu_fungcen_new_rel_data.lua",
+      "sha256": "320b1153c1eabc6c06767ec034ae7a412d0f328632af3d25943fc8290368c07f",
+      "size": 158967
+    },
+    {
+      "path": "lua/gannyu_fungcen_old_norel_annotations.bin",
+      "sha256": "543ab7632373f3951294d8f3a4573cf3da4a55cc9df83d5cedceb0adf90ed301",
+      "size": 103564
+    },
+    {
+      "path": "lua/gannyu_fungcen_old_norel_data.lua",
+      "sha256": "a881870519d2bd4f8f945d0a11f349d6db43297af621a868e4f6413a3d1827f5",
+      "size": 148370
+    },
+    {
+      "path": "lua/gannyu_fungcen_old_rel_annotations.bin",
+      "sha256": "1682d193b8d66413e5681853bf317fc85054d06ba797e19a5807afa9af6e5eb0",
+      "size": 131115
+    },
+    {
+      "path": "lua/gannyu_fungcen_old_rel_data.lua",
+      "sha256": "529d12213d024ef784561c74f8123a5d0c58040fcce21cb1bb32d689473eb6fe",
+      "size": 158967
+    },
+    {
+      "path": "lua/gannyu_input_options.lua",
+      "sha256": "1f7fc6dcae7bf9886c37933a6263fdf36d04f10bcb95b775d069a542d8c2d0b4",
+      "size": 2061
+    },
+    {
+      "path": "lua/gannyu_options_translator.lua",
+      "sha256": "30cd5a22d19424ec5964f3ee37ba4c38a61e0eb14b1574be594b8b52f23dc860",
+      "size": 1286
+    },
+    {
+      "path": "lua/gannyu_relation_filter.lua",
+      "sha256": "b250b7ab943ed2d3d5a3acd5357e412528d592b7447a8573b95f2d8640eed0ea",
+      "size": 1552
+    },
+    {
+      "path": "lua/gannyu_single_char_filter.lua",
+      "sha256": "0af8da52773280473aadcc7d5ac657e68232dbdf590963cc487219538423ffb6",
+      "size": 1616
+    },
+    {
+      "path": "lua/konny_fungcen_scheme2.lua",
+      "sha256": "80efd0267082ed2c8865c3ffad9b59d6fbde881fc6fd44b4eb887e0112dda707",
+      "size": 15727
+    }
+  ],
+  "product_version": "1.3.0",
+  "regions": [
+    {
+      "id": "fungcen",
+      "name_zh": "丰城",
+      "schema_id": "konny_fungcen_II"
+    }
+  ],
+  "schema_version": "1.3.0"
+}
